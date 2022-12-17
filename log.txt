@@ -1,0 +1,127 @@
+INFO: Новый пользователь > ClientProcessing@567d299b
+MESS: 13:57:46|Andru|wefwe
+MESS: 13:57:48|Andru|few
+INFO: Новый пользователь > ClientProcessing@567d299b
+MESS: 18:46:42|Andru|йцуц
+MESS: 18:46:44|Andru|йцуйуц
+MESS: 18:46:45|Andru|йцууу
+MESS: 18:46:46|Andru|йцу
+MESS: 18:46:46|Andru|йцу
+MESS: 18:46:47|Andru|йцу
+INFO: Новый пользователь > ClientProcessing@64cee07
+MESS: 18:47:13|Andru|кпквпп
+MESS: 18:47:14|Andru|кппвпк
+MESS: 18:47:16|Andru|квп
+MESS: 18:47:17|Andru|пквпк
+MESS: 18:47:18|Andru|пкввп
+MESS: 18:47:19|Andru|пвк
+MESS: 18:47:20|Andru|пкв
+MESS: 18:47:21|Andru|пквпквкп
+MESS: 18:47:24|Andru|кпввпквк
+INFO: Новый пользователь > ClientProcessing@567d299b
+MESS: 18:57:59|Andru|dAD
+MESS: 18:58:00|Andru|SAC
+MESS: 18:58:00|Andru|ASC
+MESS: 18:58:01|Andru|ASC
+INFO: Новый пользователь > ClientProcessing@567d299b
+MESS: 19:01:51|Andru|tttt
+MESS: 19:01:52|Andru|uii
+MESS: 19:01:53|Andru|iiio
+INFO: Новый пользователь > ClientProcessing@51c8530f
+MESS: Andru|22:32:10|wefwfw
+MESS: Andru|22:32:11|fewe
+MESS: Andru|22:32:13|wefew
+MESS: Andru|22:32:14|wfew
+MESS: Andru|22:32:15|wefw
+MESS: Andru|22:32:16|wef
+MESS: Andru|22:32:17|wfwef
+INFO: Новый пользователь > ClientProcessing@544a2ea6
+MESS: Andru|22:35:53|effe
+MESS: Andru|22:35:55|eff
+MESS: Andru|22:35:56|eff
+MESS: Andru|22:35:57|sdvcv
+MESS: Andru|22:35:58|asdvvsd
+MESS: Andru|22:35:59|avdvdv
+MESS: Andru|22:36:00|sdavasdv
+INFO: Новый пользователь > ClientProcessing@4524411f
+MESS: Andru|22:48:40|Привет БД!
+INFO: Новый пользователь > ClientProcessing@43a0cee9
+MESS: Andru|22:50:10|Привет БД!!
+MESS: Andru|22:51:31|OUAcMN4J96rUvkJNRHIH1RugX3F0Aucvxfim7e3JP36Us34Zx1DJzpmOQHp5M4Q2oYBbBxCiLMXd1hhDK96RljRrolWIratXOLrL+kYdLy8Fbtwc7xJX7dvI3gAdLx3t8bmeXLLYbNs0UtSguPG/5rOUAcMN4J96rUvkJNRHIH1RugX3F0Aucvxfim7e3JP36Us34Zx1DJzpmOQHp5M4Q2oYBbBxCiLMXd1hhDK96RljRrolWIratXOLrL+kYdLy8Fbtwc7xJX7dvI3gAdLx3t8bmeXLLYbNs0UtSguPG/5
+MESS: Andru|22:51:41|OUAcMN4J96rUvkJNRHIH1RugX3F0Aucvxfim7e3JP36Us34Zx1DJzpmOQHp5M4Q2oYBbBxCiLMXd1hhDK96RljRrolWIratXOLrL+kYdLy8Fbtwc7xJX7dvI3gAdLx3t8bmeXLLYbNs0UtSguPG/5rOUAcMN4J96rUvkJNRHIH1RugX3F0Aucvxfim7e3JP36Us34Zx1DJzpmOQHp5M4Q2oYBbBxCiLMXd1hhDK96RljRrolWIratXOLrL+kYdLy8Fbtwc7xJX7dvI3gAdLx3t8bmeXLLYbNs0UtSguPG/5
+MESS: Andru|22:53:59|DROP TABLE;
+MESS: Andru|22:54:31|:DROP TABLE chatstory;
+MESS: Andru|22:54:41|;
+MESS: Andru|22:54:43|;
+MESS: Andru|22:54:45|;
+MESS: Andru|22:55:02|;DROP TABLE chatstory;
+MESS: Andru|22:55:21|DROP TABLE chatstory
+INFO: Новый пользователь > ClientProcessing@7276c8cd
+MESS: Andru|23:10:04|wef
+MESS: Andru|23:10:05|wef
+MESS: Andru|23:10:06|wef
+MESS: Andru|23:10:07|wef
+MESS: Andru|23:10:08|wef
+MESS: Andru|23:10:08|wef
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@df27fae
+MESS: Andru|23:26:50|qwdqwdq
+MESS: Andru|23:26:51|qwdqw
+MESS: Andru|23:26:52|qwdq
+MESS: Andru|23:26:54|qwdqw
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@319b92f3
+MESS: Andru|23:27:38|wfwef
+MESS: Andru|23:27:39|efwfe
+MESS: Andru|23:27:40|wfeewf
+MESS: Andru|23:27:41|wefwef
+MESS: Andru|23:27:42|efwef
+MESS: Andru|23:27:43|wefw
+MESS: Andru|23:27:44|wefwef
+MESS: Andru|23:27:46|weferyjyutkiu
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@7e0e6aa2
+MESS: Andru|23:36:18|wdqwd
+MESS: Andru|23:36:20|qdqw
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@7e0e6aa2
+MESS: Andru|23:38:09|ewf
+MESS: Andru|23:38:11|ewf
+MESS: Andru|23:38:12|wef
+MESS: Andru|23:38:13|efwf
+MESS: Andru|23:38:14|efw
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@10d59286
+MESS: Andru|23:39:40|cacs
+MESS: Andru|23:39:41|asca
+MESS: Andru|23:39:42|asc
+MESS: Andru|23:39:43|ascsc
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@281e3708
+MESS: Andru|23:42:31|htrjtyjtu
+MESS: Andru|23:42:45|после добавления истори чата
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@4ae82894
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@fe18270
+MESS: Andru|23:51:26|// поток вывода передаётся для передачи истории последних 10
+MESS: Andru|23:51:27|// поток вывода передаётся для передачи истории последних 10
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@24b1d79b
+MESS: Andru|23:51:45|пуккум
+MESS: Andru|23:51:46|укики
+MESS: Andru|23:51:48|тек
+MESS: Andru|23:51:49|екрт
+MESS: Andru|23:51:50|кетке
+MESS: Andru|23:51:51|ткте
+MESS: Andru|23:51:53|кетек
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@44a3ec6b
+MESS: Andru|00:11:41|цауа
+MESS: Andru|00:11:42|умцум
+MESS: Andru|00:11:43|ум
+MESS: Andru|00:11:43|цму
+MESS: Andru|00:11:43|у
+MESS: Andru|00:11:43|мц
+MESS: Andru|00:11:43|уцм
+MESS: Andru|00:11:44|у
