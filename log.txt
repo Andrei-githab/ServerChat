@@ -125,3 +125,133 @@ MESS: Andru|00:11:43|у
 MESS: Andru|00:11:43|мц
 MESS: Andru|00:11:43|уцм
 MESS: Andru|00:11:44|у
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@5fcd892a
+MESS: Andru|00:19:43|gfdebgenlkb
+MESS: Andru|00:19:45|svfkg
+MESS: Andru|00:19:46|grg'ael;gm
+MESS: Andru|00:19:46|bfb
+MESS: Andru|00:19:47|afb
+MESS: Andru|00:19:47|f
+MESS: Andru|00:19:47|ba
+MESS: Andru|00:19:47|ba
+MESS: Andru|00:19:47|et
+MESS: Andru|00:19:48|e
+MESS: Andru|00:19:48|tuk
+MESS: Andru|00:19:48|ryil
+MESS: Andru|00:19:48|li
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@382db087
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@15bfd87
+MESS: Andru|00:20:44|lndfblkn
+MESS: Andru|00:20:45|dflnkd
+MESS: Andru|00:20:47|fdbdb
+MESS: Andru|00:20:48|fdb
+MESS: Andru|00:20:49|dfbd
+MESS: Andru|00:20:49|dfb
+MESS: Andru|00:20:50|dfbdfb
+MESS: Andru|00:20:51|dfbdfb
+MESS: Andru|00:20:52|dfbdfbdb
+MESS: Andru|00:20:52|dfbb
+MESS: Andru|00:20:53|bfdbd
+MESS: Andru|00:20:53|b
+MESS: Andru|00:20:54|bdfb
+MESS: Andru|00:20:54|bf
+MESS: Andru|00:20:55|db
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@aecb35a
+MESS: Andru|00:23:08|dfgdfb
+MESS: Andru|00:23:10|gfnntyjtujt
+MESS: Andru|00:23:11|jehh
+MESS: Andru|00:23:11|reg
+MESS: Andru|00:23:11|er
+MESS: Andru|00:23:11|grh
+MESS: Andru|00:23:12|rt
+MESS: Andru|00:23:12|h
+MESS: Andru|00:23:12|yj
+MESS: Andru|00:23:12|uk
+MESS: Andru|00:23:13|jjtyjny
+MESS: Andru|00:23:13|bt
+MESS: Andru|00:23:13|rbrtn
+MESS: Andru|00:23:13|r
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@aecb35a
+MESS: Andru|01:54:37|foighfsi[
+MESS: Andru|01:54:39|gns'rjpnhon
+MESS: Andru|01:54:39|sgn
+MESS: Andru|01:54:40|sn
+MESS: Andru|01:54:40|hn
+MESS: Andru|01:54:40|shn
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@768b970c
+MESS: Andru|01:55:59|sfnbkfpa
+MESS: Andru|01:56:00|fbfadbf
+MESS: Andru|01:56:01|fdab
+MESS: Andru|01:56:01|b
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@4b53f538
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@2f8f5f62
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@5fcd892a
+MESS: Andru|02:01:33|dd
+MESS: Andru|02:01:34|dd
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@382db087
+MESS: Andru|02:02:56|ytcuu
+MESS: Andru|02:02:58|lkn
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@15bfd87
+MESS: Wera|02:20:17|saddss
+MESS: Wera|02:20:19|asdasd
+MESS: Wera|02:20:20|adsasdasd
+MESS: Wera|02:20:20|asdasddsa
+MESS: Wera|02:20:21|asdasddas
+MESS: Wera|02:20:22|asdasddsa
+MESS: Wera|02:20:23|asdasdsda
+MESS: Wera|02:20:24|asddssda
+MESS: Wera|02:20:25|asddsaasd
+MESS: Wera|02:20:26|asdddasasd
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@6366ebe0
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@17baae6e
+MESS: Alexander|02:58:05|Привет Wera и Andru!
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@1d7acb34
+MESS: Andru|03:00:59|приве
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@768b970c
+MESS: Andru|03:03:31|wr;gljr
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@aecb35a
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@b9afc07
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@5427c60c
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@3d0f8e03
+MESS: >>|03:44:33|efwef
+MESS: >>|03:44:34|efw
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@43d7741f
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@5f71c76a
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@4f51b3e0
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@51b279c9
+MESS: x|03:53:59|x
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@5a4041cc
+MESS: x|03:55:54|xx
+MESS: x|03:55:56|xx
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@134593bf
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@73d4cc9e
+MESS: yyyyyyy|04:00:37|sfgfd
+MESS: yyyyyyy|04:00:38|fdbd
+MESS: yyyyyyy|04:00:39|dffbd
+MESS: yyyyyyy|04:00:40|dfbf
