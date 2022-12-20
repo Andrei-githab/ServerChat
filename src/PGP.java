@@ -1,4 +1,6 @@
 import javax.crypto.Cipher;
+import javax.crypto.KeyGenerator;
+import javax.crypto.SecretKey;
 import javax.crypto.spec.SecretKeySpec;
 import java.security.*;
 import java.util.Base64;
@@ -9,6 +11,7 @@ import java.util.Base64;
 public class PGP implements depgp{
     private PrivateKey privateKey;
     private PublicKey publicKey;
+    SecretKey secretKey;
 
     public PublicKey getPublicKey() {
         return publicKey;
@@ -38,8 +41,7 @@ public class PGP implements depgp{
      */
     public String encrypt(String message, PublicKey pkay) throws Exception {
         byte[] messageToBytes = message.getBytes();
-        // Создание шифра RSA c режимом шифрования ECB (Electronic Codebook (Режим электронной кодовой книги)) и схемой
-        // дополнения PKCS5Padding
+        // Создание шифра RSA
         Cipher cipher = Cipher.getInstance("RSA");
         // Инициализация шифра в режиме шифрования
         cipher.init(Cipher.ENCRYPT_MODE, pkay);

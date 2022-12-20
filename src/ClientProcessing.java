@@ -54,12 +54,12 @@ public class ClientProcessing implements Runnable {
             this.in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
 
             // в поток вывода передаётся история чата из БД
-            db.printChatStory();
-            for (String vr : db.story){
-                vr = pgp.encrypt(vr, publicKeyClient);
-                out.write(vr + "\n");
-                out.flush();
-            }
+            //db.printChatStory();
+            //for (String vr : db.story){
+                //vr = pgp.encrypt(vr, publicKeyClient);
+                //out.write(vr + "\n");
+                //out.flush();
+            //}
 
         } catch (Exception exception) {
             System.out.println(exception);

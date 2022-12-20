@@ -15,7 +15,7 @@ public class ChatServer {
     public ChatServer(ServerSocket serverSocket){
         this.serverSocket = serverSocket;
     }
-    public void startServer() throws UnknownHostException, ClassNotFoundException {
+    public void startServer() throws Exception {
         System.out.println("============== SERVER STARTED ===============>\n=== SERVER ADDRESS " + InetAddress.getLocalHost() +
                            " ===>\n=============================================>");
 
@@ -34,7 +34,7 @@ public class ChatServer {
     }
     // порт который мы прослушаваем
     public static final int PORT = 9999;
-    public static void main(String[] args) throws IOException, ClassNotFoundException {
+    public static void main(String[] args) throws Exception {
         ServerSocket serverSocket = new ServerSocket(PORT);
         ChatServer chatServer = new ChatServer(serverSocket);
         chatServer.startServer();
