@@ -30,7 +30,7 @@ public class DB {
             String[] procmes = message.split("\\|");
             String sqlAdd = "INSERT INTO chatstory (nikuser, timemes, usmessage) VALUES (?, ?, ?);";
             PreparedStatement preparedStatementAdd = connectionDB.prepareStatement(sqlAdd);
-            preparedStatementAdd.setString(1, procmes[0]);
+            preparedStatementAdd.setString(1, procmes[0]); // -> "zapros"
             preparedStatementAdd.setString(2, procmes[1]);
             preparedStatementAdd.setString(3, procmes[2]);
             preparedStatementAdd.executeUpdate();

@@ -38,7 +38,7 @@ public class ClientProcessing implements Runnable {
             // принемаем ключ от клиента и записываем его в пременую publicKeyClient
             ObjectInputStream objectInputStream = new ObjectInputStream(socket.getInputStream());
             publicKeyClient = (PublicKey)objectInputStream.readObject();
-            //System.out.println("Ключ клиента: " + publicKeyClient);
+            System.out.println("Ключ клиента: " + publicKeyClient);
 
             // создаем номер клиента
             clients_count++;
@@ -54,12 +54,12 @@ public class ClientProcessing implements Runnable {
             this.in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
 
             // в поток вывода передаётся история чата из БД
-            //db.printChatStory();
-            //for (String vr : db.story){
-                //vr = pgp.encrypt(vr, publicKeyClient);
-                //out.write(vr + "\n");
-                //out.flush();
-            //}
+            db.printChatStory();
+            for (String vr : db.story){
+                vr = pgp.encrypt(vr, publicKeyClient);
+                out.write(vr + "\n");
+                out.flush();
+            }
 
         } catch (Exception exception) {
             System.out.println(exception);
@@ -86,9 +86,6 @@ public class ClientProcessing implements Runnable {
             }
 
         } catch (Exception ignored) { }
-        finally { /// попробвать убрать
-            this.downService();
-        }
     }
 
     /**

@@ -4034,3 +4034,327 @@ MESS: null|10:32:39|qqqq
 INFO: БД подключена
 INFO: Новый пользователь > ClientProcessing@43a0cee9
 MESS: null|10:34:04|ssss
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@2e3fc542
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@2e3fc542
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@10dba097
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@eb21112
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@3578436e
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@67b467e9
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@954b04f
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@481a15ff
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@2e3fc542
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@10dba097
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@eb21112
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@6eceb130
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@5c072e3f
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@710726a3
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@306279ee
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@64485a47
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@544a2ea6
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@68ceda24
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@103f852
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@35a50a4c
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@4516af24
+MESS: >|16:15:11|igiugigu
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@52525845
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@73d4cc9e
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@543e710e
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@44f75083
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@15b3e5b
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@4bb4de6a
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@7dc222ae
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@6483f5ae
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@80169cf
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@57f23557
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@7403c468
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@75881071
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@43a0cee9
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@706a04ae
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@47db50c5
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@12c8a2c0
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@2a70a3d8
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@2de8284b
+MESS: AiMUTVFsajmJUlqXYLKiuCgTYt9UgxUA1Ej5vRSjd7QdKb9BHw38hkkZ+BIDtz9VEvQHttOqdjzGP79za3VeeVlNIHAp9s02fCqhK2aGP5cA6BNLzSpeQ31+pzfR6HCWQrBexKB5rGDZ+w+3iGSwSH7WKPuZIi+MGquNFt/Am+TcPsFrX846Uw1zSDveon6N8hgdH6AKeRywUi1VOGX+E0oDTbjd+jNkSmXdtjElxORJbxZpHFn14XZr0G6FpyVrnc5xYUjB2+41hJftjtfHkLwjWcaFU5eHXLgHjZUQMpEsVj/AuaflaA22OePuQppx9cB+xbhm8iOMwqWUkT8SD6iTVLbpZNmzN5kNUVJIFsEWvY1O4w8pPilKvKmQPlRg3/oDmdQp75hhmcFcsXY+nvc+cc7oG2yuQlYvpoWQx86FDwH6GqbOckaHXvARv96tLxTlJkhxIYulTPDWtjE+k/L+wtvJmgi+6mYkkxExHOinHEVJGQgjimeb+StJQkVDmB/E5KgpK8IeLkwQ3+3xoBj034d5gqph7gDQH57pZ4e8Aeqh6b1NQTuVV6cNMEjPv/G6kIeeHG3f/9XEr7IRtM451YtTW6zpiyWBd5lRumu10X9ypgmhZ8pO80gSqoLvokPd2/ubznTJxNFepEUZp3hg3AgxLK2nlcd/cJAPnf4=
+MESS: yKsXDnGr5yav63PKGQSGgsO8/D/XToDB/lLhiGps1YpLmt1sh6GECDnT283YbEDEZGYHxSTa+W3lFycepM++jkTUlN+XIDkzglUeQvZm+hUHkBbln33z7Hxaxzdp9BfVukLLyKDi8WHZ6uIe0R3vtsvgX6e12pZC31zCBO/5hA/bsgKsixEWgH+BMp5gEOCe+0d5XjWo3YjrAvKO6RV6hkpVi+A46aLCyygXeECpDTvLqrJI/cp3bb83otk+XDRguRJTU8BEd2QpQUUoiGHwutj2qzPsDXK6zJ2+bZQmDWl3/9TSNHRFsoPeSRDztijq1plhzqXn/GTQWdc3v5fLmDV34KoHSrB85c1Ro59CGVdLRlI4KDIgPX8PkWIQYt7D3tYhaLM28lNLFx/9+b+3hDFat2IUqD1EOijNk77ca+PxuHUlkWGJuMnPWzID0xUvPMASw7wHlLv/yyPIJlVHJoNIU3Vz3wMjVeDCJ+tY79hUQtRJfPwU7eyjQjxm9WCGVKlV6em8cCmNnLajgBJ1OTjQdXCKBPoHystpOFgyM9yU2fgWtxw+mRcloe+mhcVliALVJOM4yMg0CYdFhMHACVJTl+rT2ygSQNCgx6MsfaQ7F10nlVkMVXZf/pqJ4/zPI45UvTYyIcEiTk/j8S4np9uGMy6J0Knb+UP1zwtksYM=
+MESS: DEax47zRxh1p+8qD88yo11aypCgRwUWL6IkFkG9c/7YOzgruTVBjtYu/H6Nu8TKivCm4sdI1Bz4YxDH1FSvY0/RAm1rzfvt4Koj5mDCXBo51n/fLjnaRLNc+QUtj4gaIhQIRQr/SCCHRAGMyIFZi055Mbe2pBNX/tqUDfzn1fsXkScYueS4+FNR4sj8+gR/EK/Lh/DZBI+q6ZAqww0FvaXYwZLclr4iqlomQZEVa5AP7NJc7RsechbTpMsK5VpN34ZVukD6eoSHrDl+Zm4znoSrKsgvfB2Tdl4QAQppqt0bBNpFzvZm/fhQov6iYcky7MMOaOQl1eiJ2zoPt0MiwCJN06y0N8RTn29DqkkdDib3mB77Jqp2FliVVVKo/x82BxH7R1/Mp19WLIw6frEn0mM0JwHNA/dAXWVy5mqi51UlqY4U7xA7a9lUb7wf+nOrXQtKmA6mRnnOGl2wWOSXlCd0hKab6flo1GbjCmjkxHnW4GfeooAf2F5JrAxeNWCsoXIAyw6elp2yt4BODzAwXRMWGi3dMbf/G8qsD51XSjWkC4lLkq0YYBj6d/IRH10eFXXtsHSeteZR6T42YYksJepc1Pb38xrYChHT/8JJYJbD5G1a/rMotGRbu82I7iP+JdNpyNs6W0Yc5ZUjxowiEd2dpPxNsQBh33fyuSwiP8WM=
+MESS: Xq/Taduy2M6jbolJOjefi7sVPxz3EQMI86pmZbC/A1/T12+n2y1M+MA+u4KCgR4KRVatWtzUgCHY7tHvJCxrx/7D+YdJlXKGjiD0srcwNI0hfWjcvPjhWiB9vDipI3QDN/IhbDfHJDrhtWmLO5IriLX6t7TJ+19QHA2mWC8Hy64W3xHtojPhY7KvzPfLdEAeQsQc5QAYVHHatVE2wEsUzosXdBr3lWOsCcC+LRccJ5knjWZVwrNR6faGLQUwK41po2l7oWY7ar5ooruvnSkr0IluHGqpYBSVbpZeFmyUfdnr+wsNKYK1iB4dSfIEqyECq4ifvRkF3RNUFql+yj6UVsL0B6dEcyRyF/adDo/a2kccbdSnWzPXnACUXuBCthABm2o320mU1r5ePk7AIpCWBl0U2aNNbzQ7ZTkITQ0VEx4rshHsR50Z5rlLEdssHUOt88LzCU/c+9jEahYxTGNaxeuVGaFEo7H162PvWUWAvqk+PmtWzd3F7BovNvptbxPBEfujzvQRezYlwoBd/XfhFmoQT3/rhp1ITT3SsSma3qRgKi+/Tbf4AgKkjzd8YDiOseSmsiXoXOrYCwz4Z4ANKD+4DI7uT8hKzo47qeJgR7SXTjdlfJFNEd7Xi0H1RvKZQMp2+4rNBfXKtfbvYa4mQZY5IWwSCoTQysG7SF9kx4A=
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@7e0e6aa2
+MESS: BqowMNtJRvZm/mToXYTTwJlGpW3Lgw0+7D08XpJESdj2l7BGe5lhH/WDeKw5Ee4Ct7gprpKlG5o2faFcfhHYDkmY6c1+n567p8CFETSBkOZS2ppJwFoemTHhTQyscZOYp3svrS7PghenVQnmY0ZF8/hVA5ZzoHFCqWgtneXkGQqRZUchtVS76rrtLkJwKZKGGG/lDT4NXrCuN/jQvMiYTcmcRQLRaIRhl928ea7VWNZBpArYkCxQerx6prmDezBu9T35GnZoy79u2FJ3f1aOm1ihIvc0QYfWDIJqHSwHlxdfK3dzGM4+JGoIQyWIK5jZGQbnWqzeingyaCTgF06F6X9Db/oBcTaNHsBI9Mr8MVU7OxZaz5H9RCfjXvFtLYUseYgngTVvo8TqvEj3EnbIkN2M20EHTQ7hIHJgeD75YQ61sXknfn71N0dPZWoCjn1boLHyLfzvccrOfa7GmB8Tlzk1wIyE0CJlS/tdEJ7haDwEBaJlAbXAQ45FrzEXghL3MaSy8zB6V7bBa/Zlj5pwzp304t6sd62L0vdcatqJk75Gpyc148XHxzX9nQqMEseEjGyHL2sBmDnnlomHd79QErpBimBZjs+G3DoHSk8Bg6KVi91ruvBMGszpBdqJ6v5E3H8Bq3enuBxL2L3zvbaP899LhLZOWutOYae5PUST+Zw=
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@51c8530f
+MESS: DDDD|17:39:05|qqqq
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@1fc2b765
+MESS: DDDD|17:40:20|qqq
+MESS: DDDD|17:40:25|qqqqq
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@22eeefeb
+MESS: DDDD|17:41:12|zzzzzzz
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@2de8284b
+MESS: DDDD|17:43:32|ddd
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@7e0e6aa2
+MESS: DDDD|17:45:03|xxxxxx
+MESS: DDDD|17:45:11|qqqqqqq
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@42607a4f
+MESS: DDDD|17:46:51|qqqqqq
+MESS: DDDD|17:46:55|qqqqq
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@7ba18f1b
+MESS: DDDD|18:03:44|qqqq
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@aecb35a
+MESS: DDDD|18:10:45|qqq
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@4524411f
+MESS: DDDD|18:17:46|xxxxx
+MESS: DDDD|18:18:11|zzzz
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@2eda0940
+MESS: DDDD|18:45:09|qwerty
+MESS: DDDD|18:46:13|DROP TABLE chatstory;
+MESS: DDDD|18:46:20|;DROP TABLE chatstory;
+MESS: DDDD|18:46:28|;DROP TABLE chatstory
+MESS: DDDD|18:46:35|DROP TABLE chatstory
+MESS: DDDD|18:46:44|xxxxxxxxxxxxxx
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@4ae82894
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@16022d9d
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@5fdba6f9
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@7ba18f1b
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@44a3ec6b
+MESS: Dima|00:30:36|ssssss
+MESS: Dima|00:30:46|dima@mail.com
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@15b3e5b
+MESS: Dima|00:32:42|Привет
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@71623278
+MESS: Dima|00:33:48|sssss
+MESS: Dima|00:35:15|Привет всем 
+MESS: Dima|00:35:19|ввввв
+MESS: Dima|00:35:31|уууу
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@61ca2dfa
+MESS: Dima|00:38:31|qw	qeqweq
+MESS: Dima|00:38:37|ddfvsvddvv
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@71623278
+MESS: Dima|00:46:35|ыыы
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@61ca2dfa
+MESS: Dima|00:47:15|ыввыыфвыфв
+MESS: Dima|00:47:27|вввв
+MESS: Dima|00:47:36|уцуйуцууйу
+MESS: Dima|00:47:54|ssss
+MESS: Dima|00:48:00|qqqq
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@7e9a5fbe
+MESS: Dima|00:52:22|DDASD
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@4bb4de6a
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@7e9a5fbe
+MESS: Dima|00:57:12|wqwqw
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@6d3af739
+MESS: Dima|01:04:04|wwwwwwwww
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@2f8f5f62
+MESS: Dima|01:05:05|rwwawrawr
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@4bb4de6a
+MESS: Dima|01:08:42|qeweqwe
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@7dc222ae
+MESS: Dima|01:12:13|qqqqqqq
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@7e9a5fbe
+MESS: Dima|01:13:50|qqqqq
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@768b970c
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@768b970c
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@4516af24
+MESS: Dima|01:30:38|hyhyhyhh
+MESS: Dima|01:30:42|saascas
+MESS: Dima|01:30:50|lnnljnl
+hhhsd
+MESS: Dima|01:31:00|ascsac
+MESS: Dima|01:31:04|dsdvsdvsd
+MESS: Dima|01:31:07|sdvdsvsd
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@1068e947
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@7dc222ae
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@b9afc07
+MESS: Dima|01:42:23|gggggg
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@543e710e
+MESS: Dima|01:44:19|etssx
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@35a50a4c
+MESS: Dima|01:45:18|strrr
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@15b3e5b
+MESS: Dima|10:47:34|Привет
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@4bb4de6a
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@44a3ec6b
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@1da51a35
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@1068e947
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@4b53f538
+MESS: Dima|11:36:58|как дела
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@7dc222ae
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@768b970c
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@1068e947
+MESS: Sasha|16:37:47|hhgg
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@b9afc07
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@5427c60c
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@3d0f8e03
+INFO: Новый пользователь > ClientProcessing@523884b2
+INFO: Новый пользователь > ClientProcessing@5e5792a0
+INFO: Новый пользователь > ClientProcessing@523884b2
+INFO: Новый пользователь > ClientProcessing@5e5792a0
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@5a4041cc
+MESS: Andru|16:56:28|fdsgerggertgre
+MESS: Andru|16:56:32|sdvvsfggfd
+MESS: Andru|16:56:37|dSDgfsgfdhd
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@7ba18f1b
+MESS: Andru|16:58:05|fewegwrgag
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@aecb35a
+MESS: Sasha|16:58:23|asas
+
+MESS: Andru|16:58:23|sadafesfd
+MESS: Andru|16:58:28|adsfasdgfaw
+MESS: Andru|16:58:31|asfaFDFA
+MESS: Andru|16:58:37|aFEGrgRE
+MESS: Andru|16:58:53|QQQQQ
+MESS: Andru|16:59:02|DFGDFGfdgdfgd
+MESS: Andru|16:59:06|sdgfdgfdg
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@b9afc07
+MESS: Dmitry|17:05:04|sxcfvas
+MESS: Dmitry|17:05:09|safasdf
+MESS: Dmitry|17:05:16|tgrtgb
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@7e9a5fbe
+MESS: Andru|17:05:59|ASasss
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@61ca2dfa
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@4bb4de6a
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@2f8f5f62
+MESS: Andru|17:08:25|saddsdada
+MESS: Andru|17:08:29|asdsa
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@6483f5ae
+MESS: Dmitry|17:08:39|asdf
+MESS: Dmitry|17:08:47|asdf
+
+MESS: Andru|17:08:49|asfasffsa
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@80169cf
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@57f23557
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@2698dc7
+MESS: Andru|17:09:38|Всем привет!
+
+MESS: Andru|17:09:39|assad
+MESS: Andru|17:09:48|adfsdf
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@27fe3806
+MESS: Dmitry|17:10:39|asdfas
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@1e4a7dd4
+MESS: Andru|17:11:15|asfdfd
+MESS: Andru|17:11:19|sdfdfsfd
+MESS: Andru|17:11:27|dsfsdfsdg
+MESS: Andru|17:11:31|dsfsdgf
+MESS: Sasha|17:11:32|adad
+
+MESS: Sasha|17:11:39|привет всем!
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@133e16fd
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@1cab0bfb
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@52525845
+MESS: >|16:55:42|dfwe
+MESS: >|16:55:44|efewf
+MESS: >|16:55:45|efwef
+MESS: >|16:55:45|wefewf
+MESS: >|16:55:46|fewef
+MESS: >|16:55:47|wefwef
+MESS: >|16:55:48|efwef
+MESS: >|16:55:49|efwef
+MESS: >|16:55:50|ewef
+INFO: БД подключена
+INFO: Новый пользователь > ClientProcessing@281e3708
+MESS: Andru|16:57:03|efwf
+MESS: Andru|16:57:04|wefef
+MESS: Andru|16:57:05|wefef
+MESS: Andru|16:57:06|wefwef
