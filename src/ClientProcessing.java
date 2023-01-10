@@ -2,6 +2,7 @@ import java.io.*;
 import java.net.Socket;
 import java.security.PublicKey;
 import java.util.HashMap;
+import java.util.Map;
 
 public class ClientProcessing implements Runnable {
     // экземпляр Loger'a
@@ -22,7 +23,7 @@ public class ClientProcessing implements Runnable {
     // пременая ключа
     private PublicKey publicKeyClient;
     // хронилище ключь + номер клиента
-    private HashMap<Integer, PublicKey> hashMap = new HashMap<Integer, PublicKey>();
+    private Map<Integer, PublicKey> hashMap = new HashMap<Integer, PublicKey>();
     // пременая для номера клиента
     private static int clients_count = 0;
 
